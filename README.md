@@ -17,7 +17,12 @@ This is a web based application developed for Health related based website in In
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
 - User is able to book a table through the website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement
+  
+## Azure Technologies used for Project
+
+- Static Web Apps
+- Azure Healthbot
 
 ## Screenshots 📸
 
