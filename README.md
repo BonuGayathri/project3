@@ -5,7 +5,7 @@ This is a web based application developed for Health related based website in In
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** - https://white-field-0d94ea300.3.azurestaticapps.net
 
 
 **Demo Video** -  
